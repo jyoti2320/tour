@@ -166,7 +166,7 @@
 
 
 
-  <nav class="navbar navbar-expand-lg" style="background:black; padding:20px; border-bottom:1px solid white;">
+  <nav class="navbar navbar-expand-lg sticky-top" style="background:black; padding:20px; border-bottom:1px solid white;">
   <div class="container">
   <a class="navbar-brand" href="#" style=" color:white; font-size:25px; font-weight:500;">Himalaya Circuit</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style="color:white;">
